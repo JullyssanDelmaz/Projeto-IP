@@ -1,0 +1,5 @@
+Esse projeto faz parte da conclusão da cadeira de Introdução à Programação do Curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE), ministrada pelo Professor Rodrigo Lira.
+Como professora de matemática da Rede Pública Estadual, lido com alunos do 3º ano do Ensino Médio, que estão se preparando para o vestibular e provas externas, com isso preciso fazer várias provas, simulados, lista de exercícios mas que me gerem resultados rápidos.
+Como a maioria das escolas públicas, tenho dificuldades em imprimir provas (pela quantidade de papel e tinta de impressora), tenho dificuldades em fazer provas por meio de formulários pois a escola não dispões de internet que alcance a todos os alunos.
+A minha ideia neste projeto, veio de uma necessidade, visto que para melhores resultados dos alunos, eles precisam ser testados frequentemente, então decidi desenvolver um aplicativo para computador, que não necessita de internet, para que os alunos consigam responder
+provas, e os professores possam verificar os resultados de maneira mais rápida e eficaz.
